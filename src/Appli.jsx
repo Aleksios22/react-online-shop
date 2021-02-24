@@ -25,7 +25,6 @@ export default function Appli() {
           </Route>
           <Route path="/contactez-nous" component={Contact} exact />
         </Switch>
-        
       </section>
       <PiedDePage />
     </div>
